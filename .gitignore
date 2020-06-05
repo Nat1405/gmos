@@ -1,0 +1,8 @@
+*.fits
+gemini_calibs.GS-2007A-Q-76
+gemini_data.GS-2007A-Q-76
+raw/*.fits
+raw/*.sqlite3
+.DS_Store
+*.txt
+*.pyc
